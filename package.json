@@ -1,11 +1,11 @@
 {
-  "name": "ajs-unit-testing-04-01-pure-functions",
+  "name": "ajs-unit-testing-04-02-matchers",
   "version": "1.0.0",
-  "description": "AJS-HomeTasks-04-Unit-Testing-04-01-Pure-Functions",
+  "description": "AJS-HomeTasks-04-Unit-Testing-04-02-Matchers",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelVeselov/AJS-Unit-Testing-04-01-Pure-Functions.git"
+    "url": "git+https://github.com/MichaelVeselov/AJS-Unit-Testing-04-02-Matchers.git"
   },
   "scripts": {
     "test": "jest",
